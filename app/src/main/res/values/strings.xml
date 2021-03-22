@@ -11,6 +11,8 @@
     <string name="buttontText">Next</string>
 
     <!--Used in Step2SecondActivity-->
+    <string name="topHeadingsecond">Education Details</string>
+    <string name="topdespsecond">select your highest qualities</string>
 
 
 
