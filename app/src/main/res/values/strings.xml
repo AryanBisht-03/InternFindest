@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShamoIntern</string>
+
+    <!-- Used in Step2FirstActivity -->
+    <string name="topHeadingfirst">Lets Fabricate your profile</string>
+    <string name="cardViewheadingfrist">student/never worked before</string>
+    <string name="cardViewdespfrist">i.e Fresh Graduates, Graduate having no work</string>
+    <string name="cardViewheadingsecond">working/have worked before</string>
+    <string name="cardViewdespsecond">i.e Working/Worked in an organisation, agency, company or business</string>
+    <string name="cityheading">current city</string>
+    <string name="buttontText">Next</string>
+
+    <!--Used in Step2SecondActivity-->
+
+
+
+</resources>
